@@ -154,6 +154,25 @@ UPI_Transactions_Analyse_Dashboard.xlsx
 
 ---
 
+## 🖼 Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](Images/01-main-dashboard.png)
+
+*Interactive overview with live KPIs, slicers (City, Gender, Merchant Name, Merchant Category), and 6 synced charts — daily trend, UPI app share, status breakdown, state-wise map, hourly volume, and a day×hour heatmap.*
+
+### Supporting Pivot Views
+
+| | |
+|---|---|
+| ![KPI Summary](Images/02-kpi-summary.png) *Core KPI summary — transactions, amount, cashback, success/fraud rates* | ![Amount by Day](Images/03-amount-by-day.png) *Daily transaction value trend across May 2026* |
+| ![Amount by Hour](Images/04-amount-by-hour.png) *Hourly transaction volume — peak activity in the evening* | ![Amount by Transaction Type](Images/05-amount-by-transaction-type.png) *Spend split across P2P, P2M, Bill Payment, Recharge, etc.* |
+| ![Amount by Bank](Images/06-amount-by-bank.png) *Bank-wise transaction value comparison* | ![Status & State Breakdown](Images/07-status-and-state.png) *Success/failure rates and state-wise contribution* |
+| ![Amount by UPI App](Images/08-amount-by-upi-app.png) *Market share by UPI app — PhonePe leads at 49.75%* | |
+
+---
+ 
+
 ## 📂 Data & Project File
 
 Due to GitHub's file size limits, the two components of this project are hosted separately:
